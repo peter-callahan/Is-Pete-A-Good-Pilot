@@ -315,21 +315,5 @@ Pilot-Training Success: A Meta-Analysis of Published Research.” The
 International Journal of Aviation Psychology, 4(4), 297-313.
 
 \[4\] NATOPS Flight Manual: AH-1W Helicopter (2010). Department of the
-Navy, Office of the Chief of Naval Operations, 4-4.Conference Name:ACM
-Woodstock conference
-
-Conference Short Name:WOODSTOCK’18
-
-Conference Location:El Paso, Texas USA
-
-ISBN:978-1-4503-0000-0/18/06
-
-Year:2018
-
-Date:June
-
-Copyright Year:2018
-
-Copyright Statement:Rights Retained
-
-DOI:10.1145/1234567890
+Navy, Office of the Chief of Naval Operations, ISBN:978-1-4503-0000-0/18/06 
+Year:2018 Date:June Copyright Year:2018 DOI:10.1145/1234567890 RRH: F. Surname et al.
