@@ -86,7 +86,7 @@ A conversion of altitudes from meters above sea level to feet above
 ground level is necessary, as is an adjustment for the impact of wind
 based on the nearest observable weather data.
 
-<img src="media/image1.png" style="width:3.33333in;height:4.15694in" />
+<img src="https://github.com/peter-callahan/flight-project/blob/main/doc_images/image1.png" style="width:3.33333in;height:4.15694in" />
 
 Figure 1: Height-velocity diagram of a AH-1W helicopter which displays
 the unsafe region on the left in red as a result of insufficient
@@ -146,7 +146,7 @@ considers elevation (Figure 2). To use the H/V curve, we need the AGL
 and since the GPS data record altitude ASL, we had to convert this
 parameter.
 
-<img src="media/image2.PNG" style="width:3.33333in;height:1.89028in" />
+<img src="https://github.com/peter-callahan/flight-project/blob/main/doc_images/image2.PNG" style="width:3.33333in;height:1.89028in" />
 
 **Figure 2: A diagram displaying the differences between Mean Sea Level
 (MSL), Elevation, Altitude Above Sea Level (ASL), and Altitude Above
@@ -226,7 +226,7 @@ flight envelopes is between 2.4% to 19% in risk depending on an
 individual flight. When we aggregated all the flight data, we found that
 the average percentage of risk exposure was 5.89%.
 
-<img src="media/image3.png" style="width:3.33333in;height:3.14514in" />
+<img src="https://github.com/peter-callahan/flight-project/blob/main/doc_images/image3.png" style="width:3.33333in;height:3.14514in" />
 
 **Figure 3: A bar chart representing the average percentage of risk of
 the aggregated flight missions.**
@@ -241,7 +241,7 @@ values like airspeed, altitude, and ground speed. The second PCA
 variable deals with environmental factors like visibility, cloud cover,
 and altimeter setting. These values are described in more detail below.
 
-<img src="media/image4.png" style="width:3.33333in;height:2.74931in" />
+<img src="https://github.com/peter-callahan/flight-project/blob/main/doc_images/image4.png" style="width:3.33333in;height:2.74931in" />
 
 **Figure 4: After performing PCA, the values above show the correlations
 of each of the features that occurred during risky flight envelopes.**
@@ -315,4 +315,21 @@ Pilot-Training Success: A Meta-Analysis of Published Research.” The
 International Journal of Aviation Psychology, 4(4), 297-313.
 
 \[4\] NATOPS Flight Manual: AH-1W Helicopter (2010). Department of the
-Navy, Office of the Chief of Naval Operations
+Navy, Office of the Chief of Naval Operations, 4-4.Conference Name:ACM
+Woodstock conference
+
+Conference Short Name:WOODSTOCK’18
+
+Conference Location:El Paso, Texas USA
+
+ISBN:978-1-4503-0000-0/18/06
+
+Year:2018
+
+Date:June
+
+Copyright Year:2018
+
+Copyright Statement:Rights Retained
+
+DOI:10.1145/1234567890
