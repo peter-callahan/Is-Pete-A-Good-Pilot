@@ -1,6 +1,4 @@
-Is Peter a Good Pilot?
-
-Measuring Flight Performance with GPS Coordinates
+Is Peter a Good Pilot? Measuring Flight Performance with GPS Coordinates
 
 Peter Callahan
 School of Information
@@ -183,9 +181,6 @@ calibrated.
 
 4.4 Classification of “safe” and “unsafe” flights
 
-TALK ABOUT HOW YOU COMPARED THE DATA WITH THE H/V CURVE (STEP 3) AND THE
-METRIC BALANCES SAFE AND UNSAFE FLIGHTS (STEP 4)
-
 Classification of each moment of flight as either safe or unsafe was
 done by plotting each airspeed and altitude combination on the H/V
 curve. Values that plotted in the red area of the curve were classified
@@ -201,8 +196,6 @@ flight.
 
 4.5 Principal Component Analysis of Flight Features During Unsafe Flight
 Envelopes
-
-TALK ABOUT HOW YOU DID THE PCA ANALYSIS
 
 After feature extraction was complete and each data point was classified
 as either safe or unsafe, we normalized all numeric values and ran a
